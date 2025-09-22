@@ -467,10 +467,10 @@
             </div>
             <h2>關於我</h2>
             <p id="about-text-1" class="editable" contenteditable="false">
-                在<strong>台師大馬來西亞同學會</strong>，我學習了如何與來自不同背景的同學合作，共同策劃和執行多項活動。這段經歷不僅提升了我的組織能力，也讓我更懂得團隊合作的重要性。
+                在<strong>台師大馬來西亞同學會</strong>，我學習共同策劃和執行多項活動。這段經歷不僅提升了我的組織能力，也讓我更懂得團隊合作的重要性。
             </p>
             <p id="about-text-2" class="editable" contenteditable="false">
-                而在<strong>手工藝設計研究社</strong>，我找到了科技與藝術的完美結合。我利用程式設計來創造獨特圖案，並將其應用於手工藝品上。這段經歷讓我發現，科技不僅僅是冷冰冰的程式碼，更是能激發無限創意的工具。
+                而在<strong>手工藝設計研究社</strong>，做為社長，組織團隊，分配工作，同時也讓社課變得更有趣，對我來説都是一個有挑戰性的任務；同時提升自己的手作能力，耐心等。
             </p>
         </section>
 
@@ -495,7 +495,7 @@
                 如果你對我的經歷或作品感興趣，歡迎隨時透過以下方式與我聯繫：
             </p>
             <ul id="contact-list" class="editable" contenteditable="false">
-                <li><strong>Email:</strong> <a href="mailto:yapyang040527@gmail.com" id="contact-email">yapyang040527@gmail.com</a></li>
+                <li><strong>Email:</strong> <a href="mailto:yapyang040527@gmail.com" id="contact-email">yapyang040527/yang-repository</a></li>
                 <li><strong>GitHub:</strong> <a href="https://github.com/yapyang040527/yang-repository" id="contact-github">yapyang040527/yang-repository</a></li>
                 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yap-yang" id="contact-linkedin">www.linkedin.com/in/yap-yang</a></li>
             </ul>
