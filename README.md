@@ -9,5 +9,5 @@
 
 作業（一）：https://yapyang040527.github.io/yang-repository/%E7%B6%B2%E7%AB%99.html
 
-作業（二）
+作業（二）：https://github.com/yapyang040527/my_web_new
 
